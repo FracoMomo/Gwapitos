@@ -35,7 +35,7 @@
     padding-top: 10%;
     color: #ffffff;
     font-family: 'Comfortaa', cursive;
-    font-size: 200px;
+    font-size: 80px;
 }
 
 .separator {
@@ -394,11 +394,11 @@ h2 {
 
 #sideNav {
     padding-left: 20px;
-    padding-top: 30px;
+    padding-top: 60px;
     width: 280px;
     height: 100vh;
     position: fixed;
-    left: -280px;
+    left: -290px;
     top: 0;
     background:#0b0c10;
     z-index: 2;
